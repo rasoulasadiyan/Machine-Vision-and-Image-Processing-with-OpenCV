@@ -3,7 +3,8 @@ This repository contains notebooks in computer vision tasks using the OpenCV lib
 including:
 ### * [Face swapping using opencv and Dlib](https://github.com/rasoulasadiyan/OpenCV/blob/master/01_Face_Swapping.ipynb):
 Dlib's face detection and shape prediction models are utilized to detect faces in both images and extract facial landmarks. These landmarks are essential for aligning and swapping the faces accurately.
-After calculating the ConvexHull, the faces are divided into triangles, then the corresponding triangles are resized and swapped.Finally SeamlessClone used to seamlessly integrate the swapped face onto the target image while maintaining natural-looking textures and lighting conditions.![Screenshot from 2023-09-16 03-04-39](https://github.com/rasoulasadiyan/OpenCV/assets/100882487/a8d2ba96-4a02-431c-bc09-3da39d473934)
+After calculating the ConvexHull, the faces are divided into triangles, then the corresponding triangles are resized and swapped.Finally SeamlessClone used to seamlessly integrate the swapped face onto the target image while maintaining natural-looking textures and lighting conditions.
+![Screenshot from 2023-09-16 03-04-39](https://github.com/rasoulasadiyan/OpenCV/assets/100882487/a8d2ba96-4a02-431c-bc09-3da39d473934)
 
 
    
@@ -13,6 +14,7 @@ This code provides a comprehensive demonstration of image segmentation and filte
 ### * [SIFT-feature matching](https://github.com/rasoulasadiyan/OpenCV/blob/master/03_SIFT_feature-matching.ipynb):
 The code will compare each novel image with the reference image and display the results, highlighting potential matches and perspective corrections.
 It uses computer vision techniques and the SIFT (Scale-Invariant Feature Transform) algorithm to find similarities between images.
+
 ![Screenshot from 2023-09-16 03-12-06](https://github.com/rasoulasadiyan/OpenCV/assets/100882487/de72120d-ee3f-4212-b704-710c804542ed)
 
 
