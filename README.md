@@ -19,4 +19,5 @@ The code is designed to work with video input and utilizes pretrained models for
 ### * [Target face recognition](https://github.com/rasoulasadiyan/OpenCV/blob/master/04_Target-face-recognition.ipynb):
 The code utilizes a pre-trained face detection, recognition model and matches detected faces with known faces using a similarity threshold.
 
-Other notebooks relating pose , 
+Other notebooks relating about [Pose](https://github.com/rasoulasadiyan/OpenCV/blob/master/06_Posture-recognition-using-pretrained-pose-estimation-model.ipynb) , [Intractive tracking](https://github.com/rasoulasadiyan/OpenCV/blob/master/10_Camshift_tracker.ipynb), [Connected Components](https://github.com/rasoulasadiyan/OpenCV/blob/master/08_Connected%20Components_binarization.ipynb), [Equalization](https://github.com/rasoulasadiyan/OpenCV/blob/master/05_CLAHE_Histogram-equalization.ipynb), [Linear Brightness](https://github.com/rasoulasadiyan/OpenCV/blob/master/11_Linear%20brightness_gamma%20correction.ipynb.ipynb), ...  
+
